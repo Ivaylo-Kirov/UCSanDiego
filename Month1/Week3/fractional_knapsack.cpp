@@ -1,6 +1,6 @@
 /*
 Ivaylo Kirov
--- April 7, 2019 --
+-- April 8, 2019 --
 UC San Diego - Data Structures And Algorithms
 Greedy - Fractional Knapsack
 */
